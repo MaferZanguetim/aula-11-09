@@ -1,0 +1,2 @@
+rootProject.name = 'exemplogradle'
+include('app') //dentro da pasta app, tem um arquivo em gradle para rodar, esse include é feito para as pastas com projetos gradles
